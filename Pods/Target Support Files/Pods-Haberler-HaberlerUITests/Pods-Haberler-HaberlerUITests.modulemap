@@ -1,0 +1,6 @@
+framework module Pods_Haberler_HaberlerUITests {
+  umbrella header "Pods-Haberler-HaberlerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

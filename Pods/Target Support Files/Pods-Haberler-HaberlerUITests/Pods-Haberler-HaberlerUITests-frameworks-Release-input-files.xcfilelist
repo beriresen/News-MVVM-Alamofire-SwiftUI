@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Haberler-HaberlerUITests/Pods-Haberler-HaberlerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/ToastSwiftUI/ToastSwiftUI.framework
