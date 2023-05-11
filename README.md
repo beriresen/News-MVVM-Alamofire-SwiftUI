@@ -1,9 +1,9 @@
 #  `News-Haberler` #
 
 ## Kullanılan Teknolojiler<br/>
--SwiftUI<br/>
--Alamofire<br/>
--MVVM<br/>
+- SwiftUI<br/>
+- Alamofire<br/>
+- MVVM<br/>
 
 ### Projenin Amacı <br/>
 
